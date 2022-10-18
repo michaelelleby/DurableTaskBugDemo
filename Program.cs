@@ -1,4 +1,5 @@
-﻿using Microsoft.Extensions.Hosting;
+﻿using Microsoft.Azure.WebJobs.Extensions.DurableTask;
+using Microsoft.Extensions.Hosting;
 
 namespace DurableTaskBugDemo
 {
